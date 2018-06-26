@@ -10,7 +10,7 @@ public class A {
 	public static void main(String[] args) throws Exception {
 		System.out.println(System.currentTimeMillis());
 			System.out.println("1529840696000");
-		
+	System.out.println("");	
 	}
 	
 	 private static byte[] BinstrToIntArray(String binStr) {  
